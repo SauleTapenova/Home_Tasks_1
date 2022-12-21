@@ -105,5 +105,5 @@
 #     n[i], n[c]=n[c], n[i]
 # print(n)
 
-print(4)
+
     
